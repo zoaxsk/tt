@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from discord import app_commands
 
-TOKEN = "MTMzOTk5NDc4OTE0MzM3OTk5OQ.GVJtLR.oouC17SRTHRl3gTNSWLn0jxrnUDMMoE1WlNQWI"  # Sostituisci con il nuovo token
+TOKEN = "MTMzOTk5NDc4OTE0MzM3OTk5OQ.GnwJBh.c4g7YmnesL2_bcvoad-x1xiFbuA3uY8-U0gY9s"  # Sostituisci con il nuovo token
 
 intents = discord.Intents.default()
 intents.messages = True
